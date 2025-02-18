@@ -1,5 +1,6 @@
 Simple Python code to control a Aim TTI TG5011A AWG.
-**Features:
+
+**Features:**
 
 -> Simple commands
 
